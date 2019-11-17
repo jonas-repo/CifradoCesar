@@ -1,5 +1,5 @@
 # CifradoCesar
-Ejemplo de cifrado de cesar con javascript 
+Ejemplo de cifrado de cesar con JavaScript.
 
 ### Cifrado Cesar.
 
